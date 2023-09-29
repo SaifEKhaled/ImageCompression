@@ -5,6 +5,8 @@
 # Overview
 This repository contains Python code for a comprehensive image compression project that harnesses Linear Algebra concepts, particularly Singular Value Decomposition (SVD), to efficiently reduce the storage footprint of digital images while maintaining their visual quality. Image compression plays a crucial role in optimizing storage, bandwidth, and data transfer in various applications such as web development, image archiving, and more. This project focuses on the compression of color images, breaking down the process step by step.
 
+I've participated with this project in 4th Egyptian Junior Researcher Competition - 16th UGRF (Special Edition) at Nile University
+
 ## Table of Contents
 - [Dependencies](#dependencies)
 - [Usage](#usage)
